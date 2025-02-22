@@ -1,0 +1,6 @@
+@import "tailwindcss";
+input[type="radio"] {
+  accent-color: #ec5d73; 
+}
+
+/* Add any additional global styles here */
