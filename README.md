@@ -2,6 +2,9 @@
 
 This is a Next.js application set up with TypeScript. Below are the instructions for setting up and running the project.
 
+https://dainty-monstera-01b07e.netlify.app/
+
+
 ## Getting Started
 
 To get started with this project, follow the steps below:
