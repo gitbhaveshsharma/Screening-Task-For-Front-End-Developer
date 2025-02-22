@@ -1,4 +1,4 @@
-# My Next.js App
+# Screening Task For Front End Developer
 
 This is a Next.js application set up with TypeScript. Below are the instructions for setting up and running the project.
 
@@ -18,7 +18,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/gitbhaveshsharma/Screening-Task-For-Front-End-Developer.git
    ```
 
 2. Navigate into the project directory:
@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 The source code for this project is hosted on GitHub. You can find the repository at:
 
 ```
-<repository-url>
+https://github.com/gitbhaveshsharma/Screening-Task-For-Front-End-Developer.git
 ```
 
 ### Contributing
